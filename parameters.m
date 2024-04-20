@@ -1,6 +1,7 @@
 duty_cycle = 99.9999;
 PWM_freq = 20000;
 PWM_period = 1/PWM_freq;
+freq_update = 71400;
 pairs = 20;
 nominal_voltage = 48;
 nominal_torque = 0.75;
