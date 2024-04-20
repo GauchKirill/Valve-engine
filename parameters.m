@@ -1,5 +1,5 @@
-duty_cycle = 99;
-PWM_freq = 2000;
+duty_cycle = 99.9999;
+PWM_freq = 20000;
 PWM_period = 1/PWM_freq;
 pairs = 20;
 nominal_voltage = 48;
