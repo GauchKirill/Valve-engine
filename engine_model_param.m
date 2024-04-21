@@ -1,11 +1,11 @@
-pairs = 20;
-nominal_voltage = 48;
-nominal_torque = 0.75;
-nominal_current = 3.5;
+p = 20;
+V_n = 48;
+T_n = 0.75;
+I_n = 3.5;
 K_t = 0.218;
 rotation_speed = 1820 / 60;
 D = 0.068;
 d = 0.042;
 m = 0.225;
-I_r = m * (d^2 + D^2) / 8;
-I = 0;
+J_r = m * (d^2 + D^2) / 8;
+J = 0;

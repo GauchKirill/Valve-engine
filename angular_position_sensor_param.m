@@ -1,3 +1,3 @@
-freq_update = 71400;
-period_update = 1/freq_update;
+f_update = 71400;
+T_update = 1/f_update;
 bit_depth = 18;
